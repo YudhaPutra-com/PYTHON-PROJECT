@@ -1,4 +1,4 @@
 print("Hello World")
 print("Belajar GitHub")
-a = 10
+a = 5
 b = 5

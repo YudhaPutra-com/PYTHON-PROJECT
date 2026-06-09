@@ -7,3 +7,9 @@ if a == b:
 else:
   print(False)
 c = a + b 
+user = input("masukkan angka: )
+
+if a == user:
+  print("Sama")
+else:
+  print("tidak sama")

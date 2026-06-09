@@ -13,3 +13,5 @@ if a == user:
   print("Sama")
 else:
   print("tidak sama")
+
+print(a * b)

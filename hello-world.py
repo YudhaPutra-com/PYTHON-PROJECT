@@ -7,12 +7,10 @@ if a == b:
 else:
   print(False)
 c = a + b 
-d = c * b
+d = c / 2
 user = input("masukkan angka: )
-if user == d:
-     print("sama")
-else:
-    print("tidak sama")
+for i in range(user):
+      print(i)
 if a == user:
   print("Sama")
 else:

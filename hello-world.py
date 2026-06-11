@@ -17,3 +17,5 @@ else:
   print("tidak sama")
 
 print(a * b)
+
+
